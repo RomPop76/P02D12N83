@@ -19,6 +19,6 @@ const $titleH1 = $('<h1 class="red">Tytuł artykułu</h1>');
 // $titleH1.appendTo('div');
 
 // Nie zadziała JavaScript
-// document.body.appendChild($titleH1);
+document.body.appendChild($titleH1);
 
 
