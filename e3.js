@@ -13,4 +13,4 @@ console.log($('[data-idUser]').attr("id"));
 
 // console.log($('[data-idUser]').attr("id"));
 
-console.log($('.vip_user').removeAttr("class"));
+// console.log($('.vip_user').removeAttr("class"));
